@@ -47,7 +47,10 @@
     } 
     #c4 img{
         max-width: 40%;
-        } 
+        }
+      h1 {
+        text-shadow: 2px 2px 4px rgb(5, 190, 169);
+      }
      }
         
      @media screen and (max-width: 600px) {
@@ -98,4 +101,7 @@
      #c4 img{
         max-width: 40%;
         } 
+           h1 {
+        text-shadow: 2px 2px 4px rgb(5, 190, 169);
+      }
     }    
